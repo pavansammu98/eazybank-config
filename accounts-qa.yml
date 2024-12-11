@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank application QA"
+  contactDetails:
+    name: "Dhruveeksha _ QA lead"
+    email: "Dhruveeksha@gmail.com"
+  onCallSupport:
+    - "+91 9876543210"
+    - "+91 9876543210"

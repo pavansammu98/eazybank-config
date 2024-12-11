@@ -1,0 +1,15 @@
+
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to EazyBank application local API's"
+  contactDetails:
+    name: "Pavan Sammu _ Developer"
+    email: "pavansammu@gmail.com"
+  onCallSupport:
+    - "+91 9876543210"
+    - "+91 9876543210"
+
+

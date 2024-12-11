@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank application Prod"
+  contactDetails:
+    name: "Medhansh _ Product owner"
+    email: "Medhansh@gmail.com"
+  onCallSupport:
+    - "+91 9876543210"
+    - "+91 9876543210"
