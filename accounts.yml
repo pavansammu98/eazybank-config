@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank application docker API's"
+  message: "Welcome to EazyBank application Local API's"
   contactDetails:
     name: "Pavan Sammu _ Developer"
     email: "pavansammu@gmail.com"
